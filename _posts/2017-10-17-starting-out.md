@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog Entry 1
+title: "Starting out"
 date: 2017-10-17
 categories: Battleships game development
 ---
